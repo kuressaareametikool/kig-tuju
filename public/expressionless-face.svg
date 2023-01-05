@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="24px" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 12 0.75 C 5.785156 0.75 0.75 5.785156 0.75 12 C 0.75 18.214844 5.785156 23.25 12 23.25 C 18.210938 23.25 23.25 18.214844 23.25 12 C 23.25 5.785156 18.210938 0.75 12 0.75 Z M 12 22.3125 C 6.3125 22.3125 1.6875 17.6875 1.6875 12 C 1.6875 6.3125 6.3125 1.6875 12 1.6875 C 17.6875 1.6875 22.3125 6.3125 22.3125 12 C 22.3125 17.6875 17.6875 22.3125 12 22.3125 Z M 12 22.3125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 15 16.5 L 9 16.5 C 8.4375 16.5 8.4375 18 9 18 L 15 18 C 15.5625 18 15.5625 16.5 15 16.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 10.171875 10.5 L 4.171875 10.5 C 3.609375 10.5 3.609375 12 4.171875 12 L 10.171875 12 C 10.738281 12 10.738281 10.5 10.171875 10.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 19.828125 10.5 L 13.828125 10.5 C 13.261719 10.5 13.261719 12 13.828125 12 L 19.828125 12 C 20.390625 12 20.390625 10.5 19.828125 10.5 "/>
+</g>
+</svg>
